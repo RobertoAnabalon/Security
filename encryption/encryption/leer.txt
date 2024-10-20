@@ -1,3 +1,4 @@
-Para compilar y leer:
-javac src/**/*.java
-java -cp src Main
+Para compilar.
+Aun falta importar a petclinic
+
+
