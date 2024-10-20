@@ -1,0 +1,3 @@
+Para compilar y leer:
+javac src/**/*.java
+java -cp src Main
